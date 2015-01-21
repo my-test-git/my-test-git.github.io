@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://my-test-git.github.io/sitemap.xml 
